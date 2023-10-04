@@ -1,0 +1,9 @@
+[general]
+project_name = 'Simple CLI Calculator for adding number together'
+
+[owner]
+owner = "Ihor Savenko"
+email = ""
+
+[details]
+version = "0.0.1"
