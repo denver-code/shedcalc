@@ -4,10 +4,11 @@ Used for testing purposes in ShedShell environment.
 
 ## Installation
 ```bash
-denver@shed:~$ spm install denver-code/shedcalc
+denver@shed:~$ spm denver-code/shedcalc
 ```
 
 ## Usage
 ```bash
-denver@shed:~$ calc 1 2 3 4 5
+denver@shed:~$ calc 10 10
+// OUTPUT: 20
 ```
